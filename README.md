@@ -3,8 +3,8 @@
 **ItsLaro/ItsLaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 💻 I'm a CS student at FIU in Miami from the DR. 🏝 
--  🐶 Working on: **Makernaut** , a Discord bot to assist in operations for UPE at FIU, and Metagotchi. 
--  🌱 Learning:  **Redux** + Gatsby + GraphQL + Sanity
+-  🐶 Working on: **Makernaut** , a Discord bot to assist in operations for UPE at FIU, and **Metagotchi**. 
+-  🌱 Learning:  Adding **Redux** + Gatsby + GraphQL + Sanity to my stack, and leveling up my CSS and JS based transitions/animations.
 -  ⛅ Fun fact:  I enjoy cloud gazing.
 
 ### 🌐 Some of the languages & technologies I've worked with:
